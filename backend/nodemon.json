@@ -1,6 +1,0 @@
-{
-  "env": {
-    "MONGO_DB_URI": "mongodb+srv://DeepakRizal:sZkSPV7Y9c6X8SgD@cluster0.l3vzwm1.mongodb.net/todos?retryWrites=true&w=majority",
-    "PORT": 3000
-  }
-}
